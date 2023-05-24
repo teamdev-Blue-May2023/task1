@@ -200,7 +200,7 @@ git pushコマンドは、Gitリポジトリに加えられたローカルの変
 ②紫色の枠で囲まれた範囲にある、delete branchをクリックし、使用したブランチをリモートリポジトリ上から削除する。
 <img width="1438" alt="スクリーンショット 2023-03-10 1 49 49" src="https://user-images.githubusercontent.com/91725975/224107776-37d8848f-eab5-4143-b0eb-1d5367b29d5a.png">
 
-
+### 2.11.1 -　TEST Edit
 
 
 ---
